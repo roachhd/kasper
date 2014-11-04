@@ -14,7 +14,7 @@ Kasper theme includes:
 * Google Analytics Tracking code
 * Code Syntax Highlight
 * Author's profile with picture
-* Disqus comments
+* Disqus comments 
 
 ## Screenshots
 
