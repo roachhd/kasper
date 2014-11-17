@@ -1,12 +1,12 @@
-name: Kasper the Happy Blog
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Kasper's Serenity
+description: Blogging about Being Happy
+meta_description: "Kasper  blogs about the art of happiness, serenity & contentment."
 
 markdown: redcarpet
 highlighter: pygments
 logo: false
 paginate: 15
-baseurl: /kasper/
+baseurl: roachhd.github.io/kasper/
 url: 'http://roachhd.github.io/kasper/'
 
 # Details for the RSS feed generator
