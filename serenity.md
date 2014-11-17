@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: "The Power of Happy"
