@@ -12,3 +12,22 @@ url: 'http://roachhd.github.io/kasper/'
 # Details for the RSS feed generator
 url:            'http://roachhd.github.io/kasper/'
 author:         'Katie Ball'
+
+# Disqus
+disqus_shortname: katieballme
+
+#google analytics
+analytics: UA-47871720-3
+
+author:
+  name: Katie Ball 
+  github: roachhd
+  twitter:  mektball
+  email: katie@roachhd.com
+
+# Use the following plug-ins
+gems:
+# Emoji please!
+  - jemoji
+# Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-sitemap
