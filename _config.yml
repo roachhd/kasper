@@ -1,6 +1,6 @@
 name: Kasper's Serenity
-description: Blogging about Being Happy
-meta_description: "Kasper  blogs about the art of happiness, serenity & contentment."
+description: A Quiet & Happy Corner of the Net
+meta_description: "Kasper blogs about the art of happiness, serenity & contentment. It's quiet and peaceful here. Everyone is welcome :smile: ."
 
 markdown: redcarpet
 highlighter: pygments
@@ -26,8 +26,8 @@ author:
   email: katie@roachhd.com
 
 # Use the following plug-ins
-gems:
 # Emoji please!
-  - jemoji
 # Create a sitemap using the official Jekyll sitemap gem
+gems:
+  - jemoji
   - jekyll-sitemap
