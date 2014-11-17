@@ -1,5 +1,5 @@
 name: Kasper's Serenity
-description: A Quiet and Happy Corner of the Net
+description: A quiet happy corner on the web.
 meta_description: "Kasper blogs about the art of happiness, serenity & contentment. It's quiet and peaceful here. Everyone is welcome :smile: ."
 
 markdown: redcarpet
@@ -17,7 +17,7 @@ author:         'Katie Ball'
 disqus_shortname: katieballme
 
 #google analytics
-analytics: UA-47871720-3
+analytics: UA-47871720-5
 
 author:
   name: Kasper
