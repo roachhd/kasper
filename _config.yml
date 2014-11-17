@@ -11,10 +11,10 @@ url: 'http://roachhd.github.io/kasper/'
 
 # Details for the RSS feed generator
 url:            'http://roachhd.github.io/kasper/'
-author:         'Katie Ball'
+author:         'Kasper'
 
 # Disqus
-disqus_shortname: katieballme
+disqus_shortname: katieball-kasper
 
 #google analytics
 analytics: UA-47871720-5
