@@ -6,7 +6,7 @@ markdown: redcarpet
 highlighter: pygments
 logo: false
 paginate: 15
-baseurl: roachhd.github.io/kasper/
+baseurl: /kasper/
 url: 'http://roachhd.github.io/kasper/'
 
 # Details for the RSS feed generator
