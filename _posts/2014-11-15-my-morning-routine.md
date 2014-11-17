@@ -4,6 +4,8 @@ title: My Morning Routine
 description: Today I start my new morning routine habit.
 tags: [habits, start, mornings]
 category: Happy-Habits
+share: true
+comments: true
 ---
 ######Happy Habits for an awesome life.
 
@@ -12,6 +14,8 @@ Today I start a new habit: my morning routine. All this month I will focus on ma
 I've actually tried different versions of a morning routine in the past year, and have enjoyed them immensely. I just haven't stuck with one for a whole month or more, and that is the goal this month.
 
 The reason I like having a morning routine is that not only does it instill a sense of purpose, peace and ritual to my day, but it ensures that I'm getting certain things done every morning … namely, my goals. I'm setting aside morning time as a time of peace and quiet, and time to take small steps each day towards my goals.
+
+***
 
 Here's my morning routine, at the moment (subject to tweaking later):
 
