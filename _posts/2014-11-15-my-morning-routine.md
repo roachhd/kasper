@@ -3,7 +3,7 @@ layout: post
 title: My Morning Routine
 description: Today I start my new morning routine habit.
 tags: [habits, start, mornings]
-category: Happy Habits
+category: Happy-Habits
 ---
 ######Happy Habits for an awesome life.
 
