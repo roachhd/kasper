@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+ {% include head.html %}
+
+</head>
+<body class="{% if page.post_class %}{{page.post_class}}{% else %}home-template{% endif %}">
+
+    {{ content }}
+
+     {% include footer.html %}
+    
+    <script type="text/javascript" src="/kasper/assets/js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="/kasper/assets/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="/kasper/assets/js/index.js"></script>
+
+    {% include analytics.html %}
+
+  </body>
+</html>
