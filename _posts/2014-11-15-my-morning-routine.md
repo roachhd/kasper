@@ -7,8 +7,6 @@ category: Happy-Habits
 share: true
 comments: true
 ---
-######Happy Habits for an awesome life.
-
 Today I start a new habit: my morning routine. All this month I will focus on making my morning routine a daily habit.
 
 I've actually tried different versions of a morning routine in the past year, and have enjoyed them immensely. I just haven't stuck with one for a whole month or more, and that is the goal this month.
