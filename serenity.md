@@ -1,6 +1,6 @@
 ---
 layout: new-page
-title: "The Power of Happy"
+title: "The Power of Serenity "
 category: Serenity
 ---
 We choose whether we are happy or unhappy. Read that sentence again if it’s not already something you consciously practice in your daily life. If you’re unhappy with your life right now, I will venture to guess that it’s because you’ve chosen to be unhappy. That sounds harsh, but in my experience it’s completely true. Edit based on reader comments: I cannot speak to whether this concept of happiness applies to everyone — especially clinically depressed or those with similar disorders, people who are starving or homeless, people who have undergone massive tragedies or abuse, or others in such circumstances. However, for most readers, I believe the principles will apply.
