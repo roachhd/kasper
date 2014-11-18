@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: new-page
 title: "The Power of Happy"
 category: Serenity
 ---
