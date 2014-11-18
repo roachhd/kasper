@@ -4,13 +4,6 @@ title: 16 Ways to get Motivated when your in a Slump
 description: 
 category: Attitude, Habits, start
 ---
-[Source](http://katieball.me/Kasper/posts/get-motivated-when-youre-in-a-slump/ "Permalink to 16 Ways to Get Motivated When You’re in a Slump : Happy Habits for an Awesome Life.")
-
-# 16 Ways to Get Motivated When You’re in a Slump : 
-###Happy Habits for an Awesome Life
-
-###### By [Katie Ball][1]
-
 Even the most motivated of us — you, me, anyone — can feel unmotivated at times. In fact, sometimes we get into such a slump that even thinking about making positive changes seems too difficult.
 
 **But it's not hopeless: with some small steps, baby ones in fact, you can get started down the road to positive change.**
