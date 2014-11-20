@@ -1,4 +1,8 @@
 ---
+layout: post
+title: 9 Rules To Simpler Day
+description: 
+category: Attitude, Habits, start
 ---
 Our days fill up so fast, and are so rushed and filled with distractions, that they seem to be bursting.
 
