@@ -5,7 +5,7 @@ category: Attitude
 tags: [attitude, challenges, mindset]
 published: true
 share: true
-comments:true
+comments: true
 ---
 Often we’re discouraged because of some tough challenge or obstacle in our way. But a shift in mindset from a Zen proverb can change everything: “The obstacle is the path.”
 
