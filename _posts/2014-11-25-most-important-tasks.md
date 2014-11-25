@@ -23,6 +23,6 @@ It's such a small thing to implement, and yet I'm raving about it like it's a hu
 See also:
 
 [1]: http://bp0.blogger.com/_YVL9GETEzNg/Rch57KSqVjI/AAAAAAAAADA/3sJUiXvFW0U/s200/stretch.jpg
-[2]: http://zenhabits.net/2007/01/habit-4-my-morning-routine/
+[2]: http://katieball.me/posts/my-morning-routine/
 [3]: http://lifehacker.com/software/top/geek-to-live--control-your-workday-187074.php
   
