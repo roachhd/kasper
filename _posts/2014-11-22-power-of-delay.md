@@ -22,7 +22,7 @@ An example: I tend to go back for seconds when I'm really hungry and especially 
 
 Another example: I often have the urge to go check email or one of my favorite online sites. Now that I notice this urge, I can tell myself, "Sure, you can go check them … in a minute." So I'd get back to [writing my book][2], and delay. The urge went away. It came back later, but you can guess what I tried then. Delay.
 
-And another: Sometimes I see something cool online that I really want to buy. My old habit is to quickly go to the site and place the order, and get it the next day. Instant gratification! Now I tell myself, "You can have it … tomorrow." And then tomorrow comes and I might not want it so bad anymore. If I do, I just tell myself, "Sure thing, Leo, but just wait one more day." Delay.
+And another: Sometimes I see something cool online that I really want to buy. My old habit is to quickly go to the site and place the order, and get it the next day. Instant gratification! Now I tell myself, "You can have it … tomorrow." And then tomorrow comes and I might not want it so bad anymore. If I do, I just tell myself, "Sure thing, but just wait one more day." Delay.
 
 Yet another example: I would have the urge to go snack on something sweet or salty, and I used to rush to find the snack and shove it in my face, with no small amount of guilt sitting in my heart. Then I learned the power of delay, and instead I just keep myself busy for awhile. I do a workout, or go help one of my kids with something, or answer some emails that have been waiting for a reply. The snack urge goes away, because I delayed.
 
