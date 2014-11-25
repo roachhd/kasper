@@ -3,7 +3,8 @@ layout: post
 title: Become a Morning Person
 share: true
 comments: true
-category: Happiness, morning, routines, habits]
+category: Habits
+tags: [Happiness, morning, routines, habits]
 ---
 I've found that waking early has been one of the best things I've done as I've changed my life recently, and I thought I'd share my tips. I just [posted about my morning routine][2], and thought you might like to know how I get up at 4:50 a.m.
 
@@ -24,4 +25,4 @@ Here are my tips for becoming an early riser:
 * Enjoy the break of dawn! As much as you can, look outside (or better yet, get outside!) and watch the sky turn light. It's beautiful. And it's quiet and peaceful. It's now my favorite time of day. Getting up early is a reward in itself for me.
 
 [1]: http://katieball.me/kasper/
-[2]: http://katieball.me/kasper/happy-habits/2014/11/15/my-morning-routine.html
+[2]: http://katieball.me/kasper/habits/2014/11/15/my-morning-routine.html
