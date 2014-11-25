@@ -35,5 +35,5 @@ As for the exercise and meditate item, I have a schedule where I do one exercise
 As for waking up at 4:50 a.m., I have only just become an early riser. I [wrote more about that here][3].
 
 [1]: http://katieball.me/kasper/
-[2]: http://katieball.me/kasper/habits/most-important-tasks/
-[3]: http://katieball/kasper/habbits/how-i-became-early-riser/
+[2]: http://katieball.me/kasper/habits/2014/11/25/most-important-tasks/
+[3]: http://katieball/kasper/habits/2014/11/10/how-i-became-early-riser/
