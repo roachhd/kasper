@@ -7,7 +7,6 @@ category: Happy-Habits
 share: true
 comments: true
 ---
-![][1]
 I've mentioned this briefly in [my morning routine][2], but I thought I'd explain a little bit more about MITs – Most Important Tasks. It's not an [original concept][3], but one that I use on a daily basis and that has helped me out tremendously.
 
 It's very simple: your MIT is the task you most want or need to get done today. In my case, I've tweaked it a bit so that I have three MITs — the three things I must accomplish today. Do I get a lot more done than three things? Of course. But the idea is that no matter what else I do today, these are the things I want to be sure of doing. So, the MIT is the first thing I do each day, right after I have a glass of water to wake me up.
@@ -22,7 +21,6 @@ It's such a small thing to implement, and yet I'm raving about it like it's a hu
 
 See also:
 
-[1]: http://bp0.blogger.com/_YVL9GETEzNg/Rch57KSqVjI/AAAAAAAAADA/3sJUiXvFW0U/s200/stretch.jpg
 [2]: http://katieball.me/posts/my-morning-routine/
 [3]: http://lifehacker.com/software/top/geek-to-live--control-your-workday-187074.php
   
