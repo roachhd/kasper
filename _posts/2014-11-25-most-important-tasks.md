@@ -3,7 +3,7 @@ layout: post
 title: Most Important Tasks
 description: How to prose your day with MIT's.
 tags: [habits, start, mornings]
-category: Happy-Habits
+category: Habits
 share: true
 comments: true
 ---
@@ -21,6 +21,6 @@ It's such a small thing to implement, and yet I'm raving about it like it's a hu
 
 See also:
 
-[2]: http://katieball.me/posts/my-morning-routine/
+[2]: http://katieball.me/habits/my-morning-routine/
 [3]: http://lifehacker.com/software/top/geek-to-live--control-your-workday-187074.php
   
