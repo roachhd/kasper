@@ -8,7 +8,7 @@ category: Habits
 tags: [Happiness, morning, routines, habits]
 ---
 Recently, someone asked me about my habit of waking at 4:30 a.m. each day, and asked me to write about the health benefits of rising early, which I thought was an excellent question. Unfortunately, there are none, that I know of. 
-*However, there are a ton of **other** great benefits.*
+*However, there are a ton of __other__ great benefits.*
 
 > "Put no trust in the benefits to accrue from early rising, as set forth by the infatuated Franklin …" – _Mark Twain_
 
