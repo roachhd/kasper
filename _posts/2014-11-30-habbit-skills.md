@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Successful Habit Skill
-description: Prepare to start or break a habit and you'll have better chances of success.
+title: Successful Habit Skills
+description: The four hidden habit skills.
 category: Happy-Habits, start
 share: true
 disqus: true
