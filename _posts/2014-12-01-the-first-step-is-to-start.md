@@ -1,10 +1,8 @@
 ---
 layout: post
-title: The First Step is to Start
+title: The First Step is to Start - avoid self doubt
 category: healthy-habits
 ---
-### AVOID SELF DOUBT
-
 Many times the reasons we don’t start something have nothing to do with lack of skills, materials, or facilities. The real blockers are self-criticism and excuses. In the excellent book, Drawing on the Right Side of the Brain, the author, Betty Edwards, discusses how we all draw as kids but around adolescence, many of us stop developing that ability.
 
 >“The beginning of adolescence seems to mark the abrupt end of artistic development in terms of drawing skills for many adults. As children, they confronted an artistic crisis, a conflict between their increasingly complex perceptions of the world around them and their current level of art skill.”
